@@ -3,8 +3,13 @@ content_type: resource
 description: This resource contains problems based on directory-based cache coherence
   protocol, silent drops, synchronization, and snoopy cache coherence protocol along
   with the appendix.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-823-computer-system-architecture-fall-2005/18301588412ce9c3c48c9031d2a53b0b_quiz4.pdf
+file: /media/courses/6-823-computer-system-architecture-fall-2005/18301588412ce9c3c48c9031d2a53b0b_quiz4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz4.pdf
 uid: 18301588-412c-e9c3-c48c-9031d2a53b0b

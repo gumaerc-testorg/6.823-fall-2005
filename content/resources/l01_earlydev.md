@@ -7,8 +7,13 @@ description: 'This resource discusses the contribution of Charles Babbage and to
   issues, the spread of ideas, dominant problem: reliability, commercial activity:
   1948-52, IBM 701, software developments, factors that influence computer architecture,
   microprocessors economics, compatibility, and perpetual tension.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-823-computer-system-architecture-fall-2005/c9cc8784b72c87271c839c918947458b_l01_earlydev.pdf
+file: /media/courses/6-823-computer-system-architecture-fall-2005/c9cc8784b72c87271c839c918947458b_l01_earlydev.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l01_earlydev.pdf
 uid: c9cc8784-b72c-8727-1c83-9c918947458b

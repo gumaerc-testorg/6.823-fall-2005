@@ -4,8 +4,13 @@ description: 'This resource discusses ISA versus implementation, microarchitectu
   hardware elements, implementing MIPS: single-cycle per instruction datapath and
   control logic, datapath, ALU, various instructions, jumps, hardwired control, and
   pipelining.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-823-computer-system-architecture-fall-2005/964e8d2c1085754ba5ed2eba48269a0b_l05_singlecycle.pdf
+file: /media/courses/6-823-computer-system-architecture-fall-2005/964e8d2c1085754ba5ed2eba48269a0b_l05_singlecycle.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l05_singlecycle.pdf
 uid: 964e8d2c-1085-754b-a5ed-2eba48269a0b

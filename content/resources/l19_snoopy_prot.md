@@ -3,8 +3,13 @@ content_type: resource
 description: This resource contains notes on bus-based protocols, snooper?s input
   and output, memory controller response, bus occupancy issues, and synchronization
   primitives.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-823-computer-system-architecture-fall-2005/55ccceb5b271314bc24366970fff9aaf_l19_snoopy_prot.pdf
+file: /media/courses/6-823-computer-system-architecture-fall-2005/55ccceb5b271314bc24366970fff9aaf_l19_snoopy_prot.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l19_snoopy_prot.pdf
 uid: 55ccceb5-b271-314b-c243-66970fff9aaf
