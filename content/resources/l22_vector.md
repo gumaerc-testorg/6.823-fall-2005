@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l22_vector.pdf
 uid: 0baf1f59-ca3a-4a80-f019-8bb91b688de0

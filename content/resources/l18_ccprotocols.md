@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l18_ccprotocols.pdf
 uid: 651f7012-7e70-cf0a-6666-5303fcd21ad4

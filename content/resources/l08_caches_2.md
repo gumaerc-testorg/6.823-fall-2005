@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l08_caches_2.pdf
 uid: b2b17f5f-f9e6-5c8f-9d54-b2733ff5987d

@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l25_vms.pdf
 uid: f06ab181-60f0-a9a9-631d-2c120a2d853f

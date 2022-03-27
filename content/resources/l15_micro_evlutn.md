@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5017895b-3c66-fd04-4111-19382827a0b9
 resourcetype: Document
 title: l15_micro_evlutn.pdf
 uid: af4c3efb-407b-e0b4-7c2e-cc6fb4f4558f

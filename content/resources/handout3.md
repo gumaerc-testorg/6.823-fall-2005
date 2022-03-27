@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f172871a-7711-8f0b-4240-e0a301ff7efe
 resourcetype: Document
 title: handout3.pdf
 uid: f05112a8-4961-13bf-da34-6ba5091481ad

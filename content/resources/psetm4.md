@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f172871a-7711-8f0b-4240-e0a301ff7efe
 resourcetype: Document
 title: psetm4.pdf
 uid: bb5d3c8c-f2d8-7caa-3bcf-fc7ff40b5af8
