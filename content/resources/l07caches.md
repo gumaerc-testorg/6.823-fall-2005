@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-823-computer-system-architecture-fall-2005/29244173f6b6a78eed99d3b2b50196b6_l07caches.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/29244173f6b6a78eed99d3b2b50196b6_l07caches.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

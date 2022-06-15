@@ -5,7 +5,7 @@ description: This resource contains notes on strike changes state of a single bi
   redundant multithreading, metrics, AVF, SFI, ACE and laws for it, vulnerability
   of a structure, dynamic instruction breakdown, ACE lifetime analysis, coping with
   wrong-path instructions, and other AVF issues.
-file: /media/courses/6-823-computer-system-architecture-fall-2005/d8e58d273c2b0cb86e7fbc314df87d16_l24_reliability.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/d8e58d273c2b0cb86e7fbc314df87d16_l24_reliability.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,5 @@ resourcetype: Document
 title: l24_reliability.pdf
 uid: d8e58d27-3c2b-0cb8-6e7f-bc314df87d16
 ---
+This resource contains notes on strike changes state of a single bit, neutron strike on a Si device, cosmic rays, triple and dual modular redundancy, redundant multithreading, metrics, AVF, SFI, ACE and laws for it, vulnerability of a structure, dynamic instruction breakdown, ACE lifetime analysis, coping with wrong-path instructions, and other AVF issues.
+
