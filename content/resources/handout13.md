@@ -8,6 +8,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/eddc1752317cffd12852
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: eddc1752-317c-ffd1-2852-547ef1e745d7
 ---
 This resource introduce an invalidation coherence protocol for write-back caches similar to those employed
 by the SUN MBus.
-

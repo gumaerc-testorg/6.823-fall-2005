@@ -7,6 +7,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/af4c3efb407be0b47c2e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: l15_micro_evlutn.pdf
 uid: af4c3efb-407b-e0b4-7c2e-cc6fb4f4558f
 ---
 this resource contains notes on first microprocessor, its evaluation, DRAM, Intel 8086, IBM PC, 1981, 80's, 90's, Intel Pentium 4, trace cache, renaming, execution ports, ALU design, branch, pipelining, delays, and microarchitecture comparison.
-

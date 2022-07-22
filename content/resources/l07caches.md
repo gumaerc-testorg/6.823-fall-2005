@@ -5,6 +5,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/29244173f6b6a78eed99
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

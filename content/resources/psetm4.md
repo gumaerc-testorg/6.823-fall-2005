@@ -7,6 +7,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/bb5d3c8cf2d87caa3bcf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: psetm4.pdf
 uid: bb5d3c8c-f2d8-7caa-3bcf-fc7ff40b5af8
 ---
 This resource contains problems based on synchronization primitives, tracing the directory-based protocol, directory-base cache coherence update protocols, snoopy cache coherent shared memory, and relaxed memory models.
-

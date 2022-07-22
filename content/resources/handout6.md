@@ -6,6 +6,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/a7e902602fd480fc2255
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout6.pdf
 uid: a7e90260-2fd4-80fc-2255-1d9e6bbc6b81
 ---
 This resource talks about direct-mapped cache, and four-way set-associative cache.
-

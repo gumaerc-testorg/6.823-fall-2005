@@ -6,6 +6,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/fb1b60ca989e4740271a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout10.pdf
 uid: fb1b60ca-989e-4740-271a-9a472a7fccd9
 ---
 This resource introduce a simple out-of-order processor using a reorder buffer.
-

@@ -6,6 +6,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/c5665c6e0addf2f7eadb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout2.pdf
 uid: c5665c6e-0add-f2f7-eadb-4e453122589e
 ---
 This resource explains the stack architecture along with a subset of a simple stack-based instruction set for 6.823.
-

@@ -5,6 +5,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/6620f8baa4395cc18ba2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: handout12.pdf
 uid: 6620f8ba-a439-5cc1-8ba2-c03ecfcecc4c
 ---
 This resource introduces a directory-based cache coherence protocol.
-

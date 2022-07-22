@@ -6,6 +6,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/5981635e375aeac6b012
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: psetm5.pdf
 uid: 5981635e-375a-eac6-b012-90ac191fec92
 ---
 This resource contains problems based on trace scheduling, VLIW machines, predication and VLIW, vector machines, and multithreaded architectures.
-

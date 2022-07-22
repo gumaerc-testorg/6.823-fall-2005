@@ -5,6 +5,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/88745867dea5c654e48e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: handout4.pdf
 uid: 88745867-dea5-c654-e48e-880cfe325ede
 ---
 This resource asks to check out section 2.12.
-

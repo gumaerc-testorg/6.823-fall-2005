@@ -6,6 +6,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/ef29c0115f94d96de8aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l07_caches.pdf
 uid: ef29c011-5f94-d96d-e8aa-8464dc146f6e
 ---
 This resource contains memory information, architechture, operation, hierarchy, cache, and DRAM information.
-

@@ -6,6 +6,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/e7ae27f2deaf7a8391e5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: psetm0.pdf
 uid: e7ae27f2-deaf-7a83-91e5-c4222bfd9af5
 ---
 This resource contains the self-assessment test including problems based on logic functions, circuits, 5-stage pipelined processor, and data cache.
-

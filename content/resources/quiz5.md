@@ -6,6 +6,7 @@ file: /courses/6-823-computer-system-architecture-fall-2005/410d9ba0be2cf20e3442
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz5.pdf
 uid: 410d9ba0-be2c-f20e-3442-a59f632d1fef
 ---
 This resource contains problems based on compiler techniques, VLIW and vector machines multithreading, and reliability.
-
