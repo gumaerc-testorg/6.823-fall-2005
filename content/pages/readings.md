@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings section contains a list of required redaings and other optional
+  readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2deb591e-33d5-5b40-3765-b593b05dcc33
 ---

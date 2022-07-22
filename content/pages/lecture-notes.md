@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The lecture notes section contains a total of 25 lecture files for the
+  course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5017895b-3c66-fd04-4111-19382827a0b9
 ---
@@ -36,7 +41,7 @@ TOPICS
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-History of Calculation and Computer Architecture (A) ([PDF]({{< baseurl >}}/resources/l01_earlydev))
+History of Calculation and Computer Architecture (A) ({{% resource_link c9cc8784-b72c-8727-1c83-9c918947458b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +50,7 @@ History of Calculation and Computer Architecture (A) ([PDF]({{< baseurl >}}/reso
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Influence of Technology and Software on Instruction Sets: Up to the dawn of IBM 360 (A) ([PDF]({{< baseurl >}}/resources/l02_fifties))
+Influence of Technology and Software on Instruction Sets: Up to the dawn of IBM 360 (A) ({{% resource_link ae51ce42-05e8-8023-b9d5-fe59dd25b7fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Influence of Technology and Software on Instruction Sets: Up to the dawn of IBM 
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Complex Instruction Set Evolution in the Sixties: Stack and GPR Architectures (A) ([PDF]({{< baseurl >}}/resources/l03_sixties))
+Complex Instruction Set Evolution in the Sixties: Stack and GPR Architectures (A) ({{% resource_link 50a585c8-5a21-b1fb-bb3f-9d11e86ba850 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +68,7 @@ Complex Instruction Set Evolution in the Sixties: Stack and GPR Architectures (A
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Microprogramming (A) ([PDF]({{< baseurl >}}/resources/l04_microprog))
+Microprogramming (A) ({{% resource_link ecfdbf15-8b80-b225-5bcb-63b9dd5debd8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +77,7 @@ Microprogramming (A) ([PDF]({{< baseurl >}}/resources/l04_microprog))
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Simple Instruction Pipelining (A) ([PDF]({{< baseurl >}}/resources/l05_singlecycle))
+Simple Instruction Pipelining (A) ({{% resource_link 964e8d2c-1085-754b-a5ed-2eba48269a0b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +86,7 @@ Simple Instruction Pipelining (A) ([PDF]({{< baseurl >}}/resources/l05_singlecyc
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Pipeline Hazards (A) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l06_pipeline))
+Pipeline Hazards (A) ({{% resource_link 16eb29d3-b9c0-8756-6a1a-28aca412bf02 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ Pipeline Hazards (A) (![This resource may not render correctly in a screen reade
 L7
 {{< tdclose >}}
 {{< tdopen >}}
-Multilevel Memories - Technology (J) ([PDF]({{< baseurl >}}/resources/l07_caches))
+Multilevel Memories - Technology (J) ({{% resource_link ef29c011-5f94-d96d-e8aa-8464dc146f6e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ Multilevel Memories - Technology (J) ([PDF]({{< baseurl >}}/resources/l07_caches
 L8
 {{< tdclose >}}
 {{< tdopen >}}
-Cache (Memory) Performance Optimization (J) ([PDF]({{< baseurl >}}/resources/l08_caches_2))
+Cache (Memory) Performance Optimization (J) ({{% resource_link b2b17f5f-f9e6-5c8f-9d54-b2733ff5987d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Cache (Memory) Performance Optimization (J) ([PDF]({{< baseurl >}}/resources/l08
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-Virtual Memory Basics (J) ([PDF]({{< baseurl >}}/resources/l09_add_trans))
+Virtual Memory Basics (J) ({{% resource_link f68f4d49-ad41-5245-f192-84cfbe8d323e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +128,7 @@ Virtual Memory Basics (J) ([PDF]({{< baseurl >}}/resources/l09_add_trans))
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Virtual Memory: Part Deux (A) ([PDF]({{< baseurl >}}/resources/l10_vrtl_mem))
+Virtual Memory: Part Deux (A) ({{% resource_link c997dbb2-4b5e-8f28-10ff-26559e6593b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +143,7 @@ Virtual Memory: Part Deux (A) ([PDF]({{< baseurl >}}/resources/l10_vrtl_mem))
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Complex Pipelining (A) ([PDF]({{< baseurl >}}/resources/l11_cmplx_pipes))
+Complex Pipelining (A) ({{% resource_link 166b289e-11b6-8c1e-00ef-9bb84cd57450 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +152,7 @@ Complex Pipelining (A) ([PDF]({{< baseurl >}}/resources/l11_cmplx_pipes))
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Out of Order Execution and Register Renaming (A) ([PDF]({{< baseurl >}}/resources/l12_ooo_pipes))
+Out of Order Execution and Register Renaming (A) ({{% resource_link a984df22-afeb-4bd7-3205-8005861a70a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ Out of Order Execution and Register Renaming (A) ([PDF]({{< baseurl >}}/resource
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Branch Prediction and Speculative Execution (A) ([PDF]({{< baseurl >}}/resources/l13_brnchpred))
+Branch Prediction and Speculative Execution (A) ({{% resource_link 3993f269-8825-8661-5687-0dc6196825f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +170,7 @@ Branch Prediction and Speculative Execution (A) ([PDF]({{< baseurl >}}/resources
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-Advanced Superscalar Architectures (J) ([PDF]({{< baseurl >}}/resources/l14_superscalar))
+Advanced Superscalar Architectures (J) ({{% resource_link de5d7f79-8f86-8802-112e-1b6cdbc454cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Advanced Superscalar Architectures (J) ([PDF]({{< baseurl >}}/resources/l14_supe
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Microprocessor Evolution: 4004 to Pentium 4 (J) ([PDF]({{< baseurl >}}/resources/l15_micro_evlutn))
+Microprocessor Evolution: 4004 to Pentium 4 (J) ({{% resource_link af4c3efb-407b-e0b4-7c2e-cc6fb4f4558f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +194,7 @@ Microprocessor Evolution: 4004 to Pentium 4 (J) ([PDF]({{< baseurl >}}/resources
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-Synchronization and Sequential Consistency (A) ([PDF]({{< baseurl >}}/resources/l16_smps_sc))
+Synchronization and Sequential Consistency (A) ({{% resource_link d1ebbcad-8cea-7330-2e0f-0a03eb413864 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ Synchronization and Sequential Consistency (A) ([PDF]({{< baseurl >}}/resources/
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-Cache Coherence (A) ([PDF]({{< baseurl >}}/resources/l17_cc))
+Cache Coherence (A) ({{% resource_link 6b31ca9b-0143-569b-4e30-9745600c80cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +212,7 @@ Cache Coherence (A) ([PDF]({{< baseurl >}}/resources/l17_cc))
 L18
 {{< tdclose >}}
 {{< tdopen >}}
-Cache Coherence (Implementation) (A) ([PDF]({{< baseurl >}}/resources/l18_ccprotocols))
+Cache Coherence (Implementation) (A) ({{% resource_link 651f7012-7e70-cf0a-6666-5303fcd21ad4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +221,7 @@ Cache Coherence (Implementation) (A) ([PDF]({{< baseurl >}}/resources/l18_ccprot
 L19
 {{< tdclose >}}
 {{< tdopen >}}
-Snoopy Protocols (A) ([PDF]({{< baseurl >}}/resources/l19_snoopy_prot))
+Snoopy Protocols (A) ({{% resource_link 55ccceb5-b271-314b-c243-66970fff9aaf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +230,7 @@ Snoopy Protocols (A) ([PDF]({{< baseurl >}}/resources/l19_snoopy_prot))
 L20
 {{< tdclose >}}
 {{< tdopen >}}
-Relaxed Memory Models (A) ([PDF]({{< baseurl >}}/resources/l20_relaxedmm))
+Relaxed Memory Models (A) ({{% resource_link aa0cb152-ac3b-e575-d624-1c669f352a7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +245,7 @@ Relaxed Memory Models (A) ([PDF]({{< baseurl >}}/resources/l20_relaxedmm))
 L21
 {{< tdclose >}}
 {{< tdopen >}}
-VLIW/EPIC: Statically Scheduled ILP (J) ([PDF]({{< baseurl >}}/resources/l21_vliw))
+VLIW/EPIC: Statically Scheduled ILP (J) ({{% resource_link d90b42c3-bf0f-65f9-ab8e-652040cc9f0d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +254,7 @@ VLIW/EPIC: Statically Scheduled ILP (J) ([PDF]({{< baseurl >}}/resources/l21_vli
 L22
 {{< tdclose >}}
 {{< tdopen >}}
-Vector Computers (J) ([PDF]({{< baseurl >}}/resources/l22_vector))
+Vector Computers (J) ({{% resource_link 0baf1f59-ca3a-4a80-f019-8bb91b688de0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +263,7 @@ Vector Computers (J) ([PDF]({{< baseurl >}}/resources/l22_vector))
 L23
 {{< tdclose >}}
 {{< tdopen >}}
-Multithreaded Processors (J) ([PDF]({{< baseurl >}}/resources/l23_multithread))
+Multithreaded Processors (J) ({{% resource_link 328c0a8d-8832-3c02-c1c3-f96251bb6f71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +272,7 @@ Multithreaded Processors (J) ([PDF]({{< baseurl >}}/resources/l23_multithread))
 L24
 {{< tdclose >}}
 {{< tdopen >}}
-Reliable Architectures (J) ([PDF]({{< baseurl >}}/resources/l24_reliability))
+Reliable Architectures (J) ({{% resource_link d8e58d27-3c2b-0cb8-6e7f-bc314df87d16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +281,7 @@ Reliable Architectures (J) ([PDF]({{< baseurl >}}/resources/l24_reliability))
 L25
 {{< tdclose >}}
 {{< tdopen >}}
-Virtual Machines (J) ([PDF]({{< baseurl >}}/resources/l25_vms))
+Virtual Machines (J) ({{% resource_link f06ab181-60f0-a9a9-631d-2c120a2d853f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

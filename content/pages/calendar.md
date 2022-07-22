@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section contains information about sessions, topics and
+  key dates along with the session taught by the professor for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7abc1ac6-0cf2-5a5e-d362-e10b0749baeb
 ---
