@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains notes on control transfer penalty, branch prediction
   schemes, and branch misprediction recovery schemes.
 file: /courses/6-823-computer-system-architecture-fall-2005/3993f2698825866156870dc6196825f2_l13_brnchpred.pdf
+file_size: 152583
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource refer to lecture 14 in 2005.
 file: /courses/6-823-computer-system-architecture-fall-2005/61873d14afed782c5a5354fa89402dac_handout11.pdf
+file_size: 81996
 file_type: application/pdf
 learning_resource_types:
 - Assignments

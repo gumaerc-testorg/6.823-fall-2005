@@ -8,6 +8,7 @@ description: 'This resource contains notes on software applications, ABI, suppor
   compiler optimizations, scheduling, translation overhead, exceptions, shadow registers
   and store buffer, and handling self-modifying code.'
 file: /courses/6-823-computer-system-architecture-fall-2005/f06ab18160f0a9a9631d2c120a2d853f_l25_vms.pdf
+file_size: 123797
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

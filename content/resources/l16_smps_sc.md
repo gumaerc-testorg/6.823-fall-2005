@@ -5,6 +5,7 @@ description: 'This resource contains notes on symmetric multiprocessors, synchro
 
   programs, mutual exclusion, and effect of caches on sequential consistency.'
 file: /courses/6-823-computer-system-architecture-fall-2005/d1ebbcad8cea73302e0f0a03eb413864_l16_smps_sc.pdf
+file_size: 116111
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
