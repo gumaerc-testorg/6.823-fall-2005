@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems based on trace scheduling, VLIW machines,
   predication and VLIW, vector machines, and multithreaded architectures.
 file: /courses/6-823-computer-system-architecture-fall-2005/5981635e375aeac6b01290ac191fec92_psetm5.pdf
+file_size: 717543
 file_type: application/pdf
 learning_resource_types:
 - Assignments

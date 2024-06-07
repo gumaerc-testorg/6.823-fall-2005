@@ -4,6 +4,7 @@ description: this resource contains notes on sequential consistency, memory mode
   issues with examples, weaker memory models and memory fence instructions, synchronized
   programs and release consistency.
 file: /courses/6-823-computer-system-architecture-fall-2005/aa0cb152ac3be575d6241c669f352a7a_l20_relaxedmm.pdf
+file_size: 92354
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

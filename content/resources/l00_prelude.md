@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-823-computer-system-architecture-fall-2005/bdee75b0fadbb349b0c43195caeb5a17_l00_prelude.pdf
+file_size: 57571
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource contains technology assumptions, 5-stage pipelined ex
   pipelined MIPS datapath, pipeline, data hazards, interlocks control logic, jumps,
   branch penalty, and bypassing.
 file: /courses/6-823-computer-system-architecture-fall-2005/16eb29d3b9c087566a1a28aca412bf02_l06_pipeline.pdf
+file_size: 157696
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
