@@ -3,6 +3,7 @@ content_type: resource
 description: This resource problems based on direct-mapped cache, miss-rate analysis,
   victim cache evaluation, cache parameters, 64-bit virtual memory.
 file: /courses/6-823-computer-system-architecture-fall-2005/a7b91fdcefc9cc3c04f94952a0ab69a3_psetm2.pdf
+file_size: 430188
 file_type: application/pdf
 learning_resource_types:
 - Assignments

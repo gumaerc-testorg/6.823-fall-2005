@@ -5,6 +5,7 @@ description: 'This resource contains notes on little ?s law, superscalar control
   VLIW, loop, software pipelining, trace scheduling, rotating register files, Intel
   EPIC IA-64, fully bypassed datapath, clustered VLIW, and limits of static scheduling.'
 file: /courses/6-823-computer-system-architecture-fall-2005/d90b42c3bf0f65f9ab8e652040cc9f0d_l21_vliw.pdf
+file_size: 312585
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

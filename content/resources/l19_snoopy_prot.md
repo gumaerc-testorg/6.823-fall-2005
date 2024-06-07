@@ -4,6 +4,7 @@ description: This resource contains notes on bus-based protocols, snooper?s inpu
   and output, memory controller response, bus occupancy issues, and synchronization
   primitives.
 file: /courses/6-823-computer-system-architecture-fall-2005/55ccceb5b271314bc24366970fff9aaf_l19_snoopy_prot.pdf
+file_size: 77296
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

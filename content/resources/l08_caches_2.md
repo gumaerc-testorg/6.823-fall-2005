@@ -4,6 +4,7 @@ description: This resource contains CPU- Cache interaction, pipelining cache wri
   read, cache performance, misses, parameters, types of caches, prefetching, compiler
   optimizations, loop, blocking, and memory hierarchy conditions.
 file: /courses/6-823-computer-system-architecture-fall-2005/b2b17f5ff9e65c8f9d54b2733ff5987d_l08_caches_2.pdf
+file_size: 143769
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
