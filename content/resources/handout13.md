@@ -4,7 +4,7 @@ description: 'This resource introduce an invalidation coherence protocol for wri
   caches similar to those employed
 
   by the SUN MBus.'
-file: /courses/6-823-computer-system-architecture-fall-2005/eddc1752317cffd12852547ef1e745d7_handout13.pdf
+file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/eddc1752317cffd12852547ef1e745d7_handout13.pdf
 file_size: 123088
 file_type: application/pdf
 learning_resource_types:
