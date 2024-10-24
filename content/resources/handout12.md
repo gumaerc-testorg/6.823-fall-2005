@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource introduces a directory-based cache coherence protocol.
-file: /courses/6-823-computer-system-architecture-fall-2005/6620f8baa4395cc18ba2c03ecfcecc4c_handout12.pdf
+file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/6620f8baa4395cc18ba2c03ecfcecc4c_handout12.pdf
 file_size: 247554
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource asks to check out section 2.12.
-file: /courses/6-823-computer-system-architecture-fall-2005/88745867dea5c654e48e880cfe325ede_handout4.pdf
+file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/88745867dea5c654e48e880cfe325ede_handout4.pdf
 file_size: 93028
 file_type: application/pdf
 learning_resource_types:
