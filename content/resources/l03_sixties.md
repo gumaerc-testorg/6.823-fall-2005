@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses the Issues for Architects in the Sixties.
-file: /courses/6-823-computer-system-architecture-fall-2005/50a585c85a21b1fbbb3f9d11e86ba850_l03_sixties.pdf
+file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/50a585c85a21b1fbbb3f9d11e86ba850_l03_sixties.pdf
 file_size: 171737
 file_type: application/pdf
 learning_resource_types:
