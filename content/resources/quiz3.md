@@ -6,7 +6,7 @@ description: 'This resource contains problems based on out-of-order scheduling w
   register renaming, branch prediction and unified physical
 
   registers.'
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/7b0f0cea1dcfb23cfbaad2b1e753eb2d_quiz3.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/7b0f0cea1dcfb23cfbaad2b1e753eb2d_quiz3.pdf
 file_size: 445887
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains notes on complex pipelining: motivation, pipeline
   structure, control issues, dependence analysis, data hazards, scoreboard, complex
   pipelining, and data structure.'
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/166b289e11b68c1e00ef9bb84cd57450_l11_cmplx_pipes.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/166b289e11b68c1e00ef9bb84cd57450_l11_cmplx_pipes.pdf
 file_size: 142017
 file_type: application/pdf
 learning_resource_types:

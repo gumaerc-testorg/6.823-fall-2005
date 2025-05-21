@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problems based on synchronization primitives,
   tracing the directory-based protocol, directory-base cache coherence update protocols,
   snoopy cache coherent shared memory, and relaxed memory models.
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/bb5d3c8cf2d87caa3bcffc7ff40b5af8_psetm4.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/bb5d3c8cf2d87caa3bcffc7ff40b5af8_psetm4.pdf
 file_size: 467327
 file_type: application/pdf
 learning_resource_types:

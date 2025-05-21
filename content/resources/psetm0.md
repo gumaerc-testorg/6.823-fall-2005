@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the self-assessment test including problems based
   on logic functions, circuits, 5-stage pipelined processor, and data cache.
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/e7ae27f2deaf7a8391e5c4222bfd9af5_psetm0.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/e7ae27f2deaf7a8391e5c4222bfd9af5_psetm0.pdf
 file_size: 217161
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems based on compiler techniques, VLIW and
   vector machines multithreading, and reliability.
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/410d9ba0be2cf20e3442a59f632d1fef_quiz5.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/410d9ba0be2cf20e3442a59f632d1fef_quiz5.pdf
 file_size: 458798
 file_type: application/pdf
 learning_resource_types:
