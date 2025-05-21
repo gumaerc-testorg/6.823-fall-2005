@@ -6,7 +6,7 @@ description: 'This resource discusses the importance of technology, technology i
   machine, processor-memory bottleneck: early solutions, index registers, support
   for subroutine calls, recursive procedure calls and reentrant codes, evolution of
   addressing modes, and data formats and memory addresses.'
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/ae51ce4205e88023b9d5fe59dd25b7fd_l02_fifties.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/ae51ce4205e88023b9d5fe59dd25b7fd_l02_fifties.pdf
 file_size: 155077
 file_type: application/pdf
 learning_resource_types:

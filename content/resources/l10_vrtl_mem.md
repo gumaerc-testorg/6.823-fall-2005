@@ -4,7 +4,7 @@ description: 'this resource contains address translation, interrupts, speeding u
   the common case:
 
   ?TLB and cache organization, speeding up page table walks, and modern usage.'
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/c997dbb24b5e8f2810ff26559e6593b1_l10_vrtl_mem.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/c997dbb24b5e8f2810ff26559e6593b1_l10_vrtl_mem.pdf
 file_size: 138157
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains the stack architecture along with a subset of
   a simple stack-based instruction set for 6.823.
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/c5665c6e0addf2f7eadb4e453122589e_handout2.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/c5665c6e0addf2f7eadb4e453122589e_handout2.pdf
 file_size: 20692
 file_type: application/pdf
 learning_resource_types:
