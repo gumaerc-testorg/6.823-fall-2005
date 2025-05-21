@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about x86 architecture introducing a subset of the
   x86 instruction set.
-file: /ol-ocw-studio-app/courses/6-823-computer-system-architecture-fall-2005/f05112a8496113bfda346ba5091481ad_handout3.pdf
+file: /courses/6-823-computer-system-architecture-fall-2005/f05112a8496113bfda346ba5091481ad_handout3.pdf
 file_size: 35840
 file_type: application/pdf
 learning_resource_types:
