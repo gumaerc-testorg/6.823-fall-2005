@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Exams
 uid: 8776a462-1e5e-a729-06dc-ef4d88356b25
 ---
-This section contains actual exams given to students throughout the course. Instructors may request the solutions for these assignments by using the MIT OpenCourseWare [Feedback](https://ocw.mit.edu/contact/) form.
+This section contains actual exams given to students throughout the course. Instructors may request the solutions for these assignments by using the MIT OpenCourseWare {{% resource_link "5660c7c4-91c1-435a-aa3a-5d11d6e584ed" "Feedback" %}} form.
 
 Quiz 1 ({{% resource_link "e88ac11c-a2b7-623b-3aaf-a663fe15cbb2" "PDF ‑ 1.5 MB" %}})
 
